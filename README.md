@@ -1,5 +1,3 @@
-# uml-text2code-pipeline
-Hybrid NLP–DSL–MDA pipeline for the automatic generation of UML diagrams and Python code from textual specifications.
 # UML-Text2Code Pipeline  
 A hybrid NLP–DSL–MDA pipeline for automatic generation of UML class diagrams and Python code from natural language specifications.  
 
